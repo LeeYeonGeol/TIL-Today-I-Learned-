@@ -98,3 +98,19 @@ Since 2021.04.22
   - 표현 계층: 데이터의 의미와 표현 방법 처리
   - 응용 계층: 다양하게 존재하는 응용 환경에서 공통으로 필요한 기능을 다룬다.
 
+## 2021년 4월 25일
+
+### 데이터 분석
+
+- pandas 개요
+  - Series와 DataFrame 차이
+    - Series는 1개의 Column값으로만 구성된 1차원 데이터셋
+    - DataFrame은 Column X Rows로 구성된 2차원 데이터셋
+    - 시리즈는 Column명이 없다.
+  - 기본 API
+    - read_csv, head 등
+    - DataFrame에서 Series, DataFrame 추출 방법
+    - shape, info, describe 등을 통해 정보를 얻을 수 있다.
+    - value_counts() - 데이터값의 분포 확인
+    - sort_values - 정렬
+
