@@ -113,4 +113,17 @@ Since 2021.04.22
     - shape, info, describe 등을 통해 정보를 얻을 수 있다.
     - value_counts() - 데이터값의 분포 확인
     - sort_values - 정렬
+  - 데이터 삭제
+    - drop() 활용
+  - loc, iloc를 통한 인덱싱
+  - Aggregation 함수 와 Group By
+  - 결손 데이터 처리하기
+    - isna()
+    - fillna()
+  - apply 함수에 lambda식을 결합해서 데이터 가공하기
 
+### 알고리즘
+
+#### 비트마스크
+
+- BOJ 11723번 집합
