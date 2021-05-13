@@ -332,3 +332,24 @@ Since 2021.04.22
 - BOJ 11052번 카드 구매하기
 - BOJ 16194번 카드 구매하기 2
 
+### CNN 알고리즘
+
+- Keras의 Sequence기반의 Dataset 활용하여 이미지 분류 연습
+
+## 2021년 5월 12일
+
+### CNN 알고리즘
+
+#### CNN 모델 공부
+
+- AlexNet
+- VGGNet
+
+## 2021년 5월 12일
+
+### CNN 알고리즘
+
+#### CNN 모델 공부
+
+- GoogLeNet(Inception)
+
