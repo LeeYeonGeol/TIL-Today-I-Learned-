@@ -353,3 +353,11 @@ Since 2021.04.22
 
 - GoogLeNet(Inception)
 
+## 2021년 5월 14일
+
+### CNN 알고리즘
+
+#### CNN 모델 공부
+
+- ResNet
+
