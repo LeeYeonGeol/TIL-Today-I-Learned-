@@ -391,3 +391,6 @@ Since 2021.04.22
 
 - EfficientNet
 - Pretrained 모델의 Fine Tuning
+- LearningRateScheduler 콜백 적용
+  - Cosine Decay
+  - Cosine Decay Restart
