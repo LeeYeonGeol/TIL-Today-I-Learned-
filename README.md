@@ -385,3 +385,9 @@ Since 2021.04.22
 
 - 피처 엔지니어링
 
+## 2021년 5월 20일
+
+### CNN 알고리즘
+
+- EfficientNet
+- Pretrained 모델의 Fine Tuning
