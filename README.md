@@ -394,3 +394,12 @@ Since 2021.04.22
 - LearningRateScheduler 콜백 적용
   - Cosine Decay
   - Cosine Decay Restart
+
+## 2021년 5월 23일
+
+### CNN 알고리즘
+
+- 강의 완료
+
+## 2021년 5월 24일
+
